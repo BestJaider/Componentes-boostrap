@@ -1,0 +1,11 @@
+.background{
+    background-color: #3CB35A;
+}
+footer {
+    background-color: #635E79;
+    color: white;
+  }
+
+  .bg-success{
+    background-color: #635E79 !important; 
+  }
